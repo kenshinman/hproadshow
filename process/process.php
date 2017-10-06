@@ -19,30 +19,11 @@ $meal_type = $_POST["meal_type"];
 $beverage_preference = $_POST["beverage_preference"];
 
 
-
-/********* for kaydence co server********/
-//$db_name = 'kaydenc1_ms';
-//$db_user = 'kaydenc1_ms';
-//$db_pass = 'P@55w0rd';
-//$db_host = 'localhost';
-
-/********* for brandage server********/
-
-$db_name = 'activat2_register';
-$db_user = 'activat2_kay';
-$db_pass = 'P@55w0rd';
+$db_name = 'hp2017';
+$db_user = 'root';
+$db_pass = '';
 $db_host = 'localhost';
 
-/********* for local server********/
-
-//$db_name = 'microsoft';
-//$db_user = 'root';
-//$db_pass = '';
-//$db_host = 'localhost';
-
-
-
-//creatre connection object
 
 $to = $email;
 $subject = "Your Registration | Activate Windows";

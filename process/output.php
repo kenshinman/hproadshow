@@ -8,9 +8,9 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 header('Content-type: application/json');
 
 //db credentials
-$db_name = 'hpconnec_hp';
-$db_user = 'hpconnec_hp';
-$db_pass = 'P@55w0rd';
+$db_name = 'hp2017';
+$db_user = 'root';
+$db_pass = '';
 $db_host = 'localhost';
 
 $mysqli = new mysqli($db_host, $db_user, $db_pass, $db_name);

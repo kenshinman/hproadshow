@@ -20,13 +20,6 @@ $depature_date = $_POST["depature_date"];
 $meal_type = $_POST["meal_type"];
 $beverage_preference = $_POST["beverage_preference"];
 
-// $db_name = 'activat2_register';
-// $db_user = 'activat2_kay';
-// $db_pass = 'P@55w0rd';
-// $db_host = 'localhost';
-
-/********* for local server********/
-
 $db_name = 'hp2017';
 $db_user = 'root';
 $db_pass = '';
