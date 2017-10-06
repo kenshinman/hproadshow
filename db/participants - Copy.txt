@@ -1,0 +1,8 @@
+Full name	Email	Company name	Company Address	Passport Number	Arrival Date	Depature Date	Country	Meal Type	Beverage Type	Passport Issue Date	Passport Expiry Date	Date Registered
+Ilham  Yakoub	ilham.yakoub@hp.com	HP	HP Morocco 	A3000900	"14 August, 2017"	"18 August, 2017"	Morocco	vegetarian	alcoholic			6/2/2017 13:42
+Souvik Chatterjee	souvik_1006@hotmail.com	Office Everything 	Plot 44. Block k. Jkmoh Odutola Street. Off Eric Moore. Surulere	K0465082	"15 August, 2017"	"18 August, 2017"	Nigeria	non-vegetarian	alcoholic	6/2/2012	5/2/2022	6/13/2017 12:31
+SOUVIK CHATTERJEE	souvik.c@officeeverything.net	Office Everything 	Plot 44. Block k. Jimoh Odutola street. Off Eric Moore. Surulere	K0465082	"15 August, 2017"	"18 August, 2017"	Nigeria	non-vegetarian	alcoholic	6/2/2012	5/2/2022	6/13/2017 12:50
+MR. BENJUDE JOHN	bentech4computers@yahoo.com	BEN TECH COMPUTERS LIMITED	"3, SAWYER STREET, OFF ALLI STREET, LAGOS ISLAND."	A04838972	"15 August, 2017"	"18 August, 2017"	NIGERIA	non-vegetarian	alcoholic	16/11/2012	15/11/2017	6/13/2017 13:13
+Melanie Norris	melanie@stylus.co.ao	"Stylus Sociedade Comercial, Lda"	Angola	N/A	"16 August, 2017"	"17 August, 2017"	South Africa	non-vegetarian	alcoholic	N/A	N/A	6/13/2017 13:28
+LEONARD ODIMEGWU 	lodimegwu@yahoo.com	LEO COMPUTERS NIG LTD 	"No 3 sawyer Street off Alli Street Tinubu square, Lagos "	A50100645			NIGERIA 	non-vegetarian	non-alcoholic	5-Feb-16	4-Feb-21	6/13/2017 14:44
+Mr Eloka Azubuike	elostar2014@yahoo.com	Elostar Investment Company Limited.	"3 sawyer street off Tinibu square, Lagos."	A05136670	"15 August, 2017"	"18 August, 2017"	South Africa	non-vegetarian	alcoholic	17/10/2013	16/10/2018	6/13/2017 15:21
